@@ -27,5 +27,3 @@ Para facilitar os testes da API, basta realizar o import da seguinte collection 
 ## 🤝 Desenvolvedores
 Igor Pereira da Silva - RM 86190
 Bianca Abbamonte Aveno - RM 84230
-
-Este projeto é um oferecimento de Igor Pereira Produções! 🕵️‍♂️
