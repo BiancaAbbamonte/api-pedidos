@@ -34,9 +34,9 @@ public class SwaggerConfig implements WebMvcConfigurer {
     private static final String API_TITLE = "API de Pedidos";
     private static final String API_DESCRIPTION = "API REST para o controle de pedidos";
     private static final String API_VERSION = "1.0.0";
-    private static final String NAME = "Igor Pereira";
-    private static final String GITHUB_PROJECT = "https://github.com/i-grr/api-pedidos";
-    private static final String EMAIL = "igorpereira120@gmail.com";
+    private static final String NAME = "Bianca Aveno";
+    private static final String GITHUB_PROJECT = "https://github.com/BiancaAbbamonte/api-pedidos";
+    private static final String EMAIL = "abbamontebianca@gmail.com";
 
     @Bean
     public Docket produtosApi() {
